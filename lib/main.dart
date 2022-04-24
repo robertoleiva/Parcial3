@@ -87,7 +87,7 @@ class _Api3State extends State<Api3> {
               decoration: InputDecoration(
                 border: InputBorder.none,
                
-                hintText: 'Grupo de Gabriel y Roberto',
+                hintText: 'Grupo de Gabriel Diaz y Roberto Leiva',
               ),
             ),
             Container(
