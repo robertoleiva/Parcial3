@@ -108,7 +108,7 @@ class _Api3State extends State<Api3> {
             Text("Altura: "+itemst.height+" cm", style: TextStyle(color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),),
             Text("Peso: "+itemst.mass+" kg", style: TextStyle(color: Colors.red, fontSize: 20, fontWeight: FontWeight.bold),),
             Text("Cabello: "+itemst.hair_color, style: TextStyle(color: Colors.black, fontSize: 20, fontWeight: FontWeight.bold),),
-            Text("Genero: "+itemst.gender, style: TextStyle(color: Color.fromARGB(255, 196, 68, 255), fontSize: 20, fontWeight: FontWeight.bold),),
+            Text("Genero: "+itemst.gender, style: TextStyle(color: Color.fromARGB(255, 68, 71, 255), fontSize: 20, fontWeight: FontWeight.bold),),
           ],
         ),
         
